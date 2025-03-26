@@ -16,6 +16,7 @@
 14. Create APIs
 15. Security of AI, Firewall, SIEM, IPS/IDS, log monitoring, alert generation
 16. Deployent of APP on cloud 
+17 Monitoring of app post deployment
 
 #Without Azure
 
@@ -35,3 +36,4 @@
 14. Create APIs
 15. Security of AI, Firewall, SIEM, IPS/IDS, log monitoring, alert generation
 16. Deployent of APP on non cloud platform
+17 Monitoring of app post deployment
