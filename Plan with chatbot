@@ -16,7 +16,10 @@
 14. Create APIs
 15. Security of AI, Firewall, SIEM, IPS/IDS, log monitoring, alert generation
 16. Deployent of APP on cloud 
-17 Monitoring of app post deployment
+17. Monitoring of app post deployment
+18. How to remove outdated document or add new document from existing production app automatically
+19. Make sure in RAG app with response, rerence of the document link should also display
+20. Create a CI/CD pipeline where if any document is remove or add it will create deployment automatically
 
 #Without Azure
 
@@ -37,3 +40,6 @@
 15. Security of AI, Firewall, SIEM, IPS/IDS, log monitoring, alert generation
 16. Deployent of APP on non cloud platform
 17 Monitoring of app post deployment
+18. How to remove outdated document or add new document from existing production app automatically
+19. Make sure in RAG app with response, rerence of the document link should also display
+20 Create a CI/CD pipeline where if any document is remove or add it will create deployment automatically
