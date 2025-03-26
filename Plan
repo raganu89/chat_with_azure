@@ -1,4 +1,5 @@
 # With Azure
+
 1. Normal chatbot - In streamlit
 2. RAG chatbot -In streamlit
 3. Rag chatbot with history and context of chat - In streamlit
@@ -11,7 +12,10 @@
 10. How to do encryption of data - In transit/ In rest
 11. How to handle authenticaton of user on app
 12. How to store chathistory of user
-13. How user connect when login with his old chat
+13. When user login how it will connect with his old chat for to maintain the context
+14. Create APIs
+15. Security of AI, Firewall, SIEM, IPS/IDS, log monitoring, alert generation
+16. Deployent of APP on cloud 
 
 #Without Azure
 
@@ -27,4 +31,7 @@
 10. How to do encryption of data - In transit/ In rest
 11. How to handle authenticaton of user on app
 12. How to store chathistory of user
-13. How user connect when login with his old chat
+13. When user login how it will connect with his old chat for to maintain the context
+14. Create APIs
+15. Security of AI, Firewall, SIEM, IPS/IDS, log monitoring, alert generation
+16. Deployent of APP on non cloud platform
