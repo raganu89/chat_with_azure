@@ -1,0 +1,21 @@
+# With Azure
+1. Normal chatbot - In streamlit
+2. RAG chatbot -In streamlit
+3. Rag chatbot with history and context of chat - In streamlit
+4. Normal chatbot - In fastapi
+5. RAG chatbot -In Fastapi
+6. Rag chatbot with history and context of chat - In Fastapi
+7. Rag chatbot with history and context of chat and document can be upload in realtime- In Fastapi
+8. How to evaluate response, Rag is giving correct response or not
+9. How to scale the app, if there are so many request hits simountaneously or so many users are there
+10. How to do encryption of data - In transit/ In rest
+11. 
+
+#Without Azure
+1. Normal chatbot - In streamlit
+2. RAG chatbot -In streamlit
+3. Rag chatbot with history and context of chat - In streamlit
+4. Normal chatbot - In fastapi
+5. RAG chatbot -In Fastapi
+6. Rag chatbot with history and context of chat - In Fastapi
+7. Rag chatbot with history and context of chat and document can be upload in realtime- In Fastapi
